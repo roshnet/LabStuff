@@ -10,7 +10,7 @@ int main(void){
 	scanf("%d", &b);
 	scanf("%d", &c);
 	int max;
-	max = (a > b)? ((a>c)?a:c):(b>c)?b:c;
+	max = (a > b)? ((a > c)? a:c):( b > c)? b:c;
 	printf("\nGreatest is: %d\n", max);
 	printf("\n\n[PROGRAM FINISHED]\n\n");
 	return 0;
