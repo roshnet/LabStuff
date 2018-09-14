@@ -1,2 +1,2 @@
 # LabStuff
-Formality codes for C lab in college.
+C program codes for B.Tech first year computer lab.
