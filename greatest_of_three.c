@@ -5,7 +5,7 @@
 int main(void){
 
 	int a, b, c;
-	printf("\nEnter space separated values of two variables: ");
+	printf("\nEnter space separated values of three variables: ");
 	scanf("%d", &a);
 	scanf("%d", &b);
 	scanf("%d", &c);
